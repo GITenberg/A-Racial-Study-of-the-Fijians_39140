@@ -1,0 +1,29 @@
+_repo: A-Racial-Study-of-the-Fijians_39140
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Gabel, Norman E.
+    birthdate: 1906
+    deathdate: 1961
+    gutenberg_agent_id: '39858'
+    url: http://www.gutenberg.org/2009/agents/39858
+description: ''
+gutenberg_issued: '2012-03-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '39140'
+  lccn: a58009532
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+series_note: Anthropological records, v. 20, no. 1
+subjects:
+- !lcsh 'Anthropometry -- Fiji'
+- !lcc 'GN'
+- !lcsh 'Fijians'
+title: A Racial Study of the Fijians
+url: http://www.gutenberg.org/ebooks/39140
